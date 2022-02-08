@@ -1,11 +1,11 @@
 <h1>Olá, eu sou o Pedro Palugan</h1>
 <h1>Hey, I am Pedro Palugan</h1>
 
-<li>
-  <ul>I am currently studying Systems development at Swiss-Brazilian Senai Paulo Ernesto Tolle</ul>
-  <ul>I am really enjoying all the stuff related to back end</ul>
-  <ul>How to contact me --> 'paluganpedro@gmail.com' 'INSTAGRAM("pe_palugan")'</ul>
-</li>
+<ul>
+  <li>I am currently studying Systems development at Swiss-Brazilian Senai Paulo Ernesto Tolle</li>
+  <li>I am really enjoying all the stuff related to back end</li>
+  <li>How to contact me --> 'paluganpedro@gmail.com' 'INSTAGRAM("pe_palugan")'</li>
+</ul>
 
 
 <hr>
