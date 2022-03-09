@@ -9,7 +9,7 @@
 
 
 <hr>
-<div align="center" display="flex">
+<div align="center" class = "teste">
   <a href="https://github.com/pedropalugan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropalugan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropalugan&layout=compact&langs_count=7&theme=dark"/>
@@ -20,3 +20,8 @@
   
 
   ![Snake animation](https://github.com/pedropalugan/pedropalugan/blob/output/github-contribution-grid-snake.svg)
+<style>
+  .teste{
+  display: flex;
+  }
+  </style>
