@@ -5,7 +5,10 @@
   <li>I am currently studying Systems development at Swiss-Brazilian Senai Paulo Ernesto Tolle</li>
   <li>I am really enjoying all the stuff related to back end</li>
   <li>How to contact me -->
-    <ul><li>paluganpedro@gmail.com</li></ul>
+    <ul>
+      <li>paluganpedro@gmail.com</li>
+      <li>https://www.linkedin.com/in/pedro-palugan-618a00219/</li>
+    </ul>
   </li>
   
 </ul>
