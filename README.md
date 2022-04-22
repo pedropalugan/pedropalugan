@@ -4,7 +4,10 @@
 <ul>
   <li>I am currently studying Systems development at Swiss-Brazilian Senai Paulo Ernesto Tolle</li>
   <li>I am really enjoying all the stuff related to back end</li>
-  <li>How to contact me --> 'paluganpedro@gmail.com' 'INSTAGRAM("pe_palugan")'</li>
+  <li>How to contact me -->
+    <ul><li>paluganpedro@gmail.com</li></ul>
+  </li>
+  
 </ul>
 
 
