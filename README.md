@@ -15,7 +15,7 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="./github/206_programming-sql-data-database-512.webp">
   <img align="center" alt="ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="./github/c++.png">
+  <img align="center" alt="C++" height="30" width="40" src="./github/c.svg">
 </div>
   <br />
   <div>
