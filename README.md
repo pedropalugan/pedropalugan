@@ -23,5 +23,12 @@
       <li>Main skills on BackEnd, specially on Node.js and Python</li>
       <li>Know a lot about CRUD</li>
       <li>I can work with ReactJS, Native , HTML and CSS as front-end languages</li>
+      <ul>
+        <h3>Academics</h3>
+        <li>Advanced english (C2), I have studied for 10 years on Cultura Inglesa and completed the whole course</li>
+        <li>Physics and Mathematic are my favorites subjects, that's why I prefer back-end</li>
+        <li>Second semester on Systems Analisys and Development on Senai Suiço Brasileiro Paulo Ernesto Tolle</li>
+        <li>Currently on third year of High School</li>
+      </ul>
     </ul>
   </div>
