@@ -32,9 +32,9 @@
       </ul>
       <ul>
         <h3>Contact me</h3>
-        <li>paluganpedro@gmail.com - EMAIL</li>
-        <li>pedro palugan#7687 - Discord</li>
-        <li>https://www.linkedin.com/in/pedro-palugan-618a00219/ - Linkedin</li>
+        <li>paluganpedro@gmail.com ➡ <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></li>
+        <li>pedro palugan#7687 ➡ <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></li>
+        <li>https://www.linkedin.com/in/pedro-palugan-618a00219/ ➡ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></li>
       </ul>
     </ul>
   </div>
