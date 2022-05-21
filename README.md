@@ -16,3 +16,12 @@
   <img align="center" alt="SQL" height="30" width="40" src="./github/206_programming-sql-data-database-512.webp">
   <img align="center" alt="ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+  <br />
+  <div>
+    <h2>About me</h2>
+    <ul>
+      <li>Main skills on BackEnd, specially on Node.js and Python</li>
+      <li>Know a lot about CRUD</li>
+      <li>I can work with ReactJS, Native , HTML and CSS as front-end languages</li>
+    </ul>
+  </div>
