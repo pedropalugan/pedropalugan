@@ -30,5 +30,11 @@
         <li>Second semester on Systems Analisys and Development on Senai Suiço Brasileiro Paulo Ernesto Tolle</li>
         <li>Currently on third year of High School</li>
       </ul>
+      <ul>
+        <h3>Contact me</h3>
+        <li>paluganpedro@gmail.com - EMAIL</li>
+        <li>pedro palugan#7687 - Discord</li>
+        <li>https://www.linkedin.com/in/pedro-palugan-618a00219/ - Linkedin</li>
+      </ul>
     </ul>
   </div>
