@@ -1,6 +1,6 @@
 ## Hey, my name is Pedro Palugan.
 <div align="center" style="display: flex; flex-direction:row">
-  <a href="https://github.com/pedropalugan">
+
   <img height="200vh" width="600vw" src="https://github-readme-stats.vercel.app/api?username=pedropalugan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200vh" width="600vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropalugan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
