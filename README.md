@@ -22,7 +22,6 @@
     <h2>About me</h2>
     <ul>
       <li>Main skills on BackEnd, specially on Node.js and Python</li>
-      <li>Know a lot about CRUD</li>
       <li>I can work with ReactJS, Native , HTML and CSS as front-end languages</li>
       <ul>
         <h3>Academics</h3>
