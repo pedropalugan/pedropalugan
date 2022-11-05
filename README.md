@@ -27,7 +27,7 @@
         <h3>Academics</h3>
         <li>Advanced english (C2), I have studied for 10 years on Cultura Inglesa and completed the whole course</li>
         <li>Physics and Mathematic are my favorites subjects, that's why I prefer back-end</li>
-        <li>Second semester on Systems Analisys and Development on Senai Suiço Brasileiro Paulo Ernesto Tolle</li>
+        <li>Third period on Systems Analisys and Development on Senai Suiço Brasileiro Paulo Ernesto Tolle</li>
         <li>Currently on third year of High School</li>
       </ul>
       <ul>
